@@ -1,6 +1,5 @@
-# Site settings
+# Site settings description: "Prof. Lijun Sun's Smart Transport Group"
 title: Smart Transport Group
-description: "Prof. Lijun Sun's Smart Transport Group"
 url: "https://smart-transport.github.io"
 
 
@@ -9,7 +8,7 @@ url: "https://smart-transport.github.io"
 # Secondary Parameters
 baseurl: "/"
 header-img: img/mcgill_univ.jpg
-headercolor: "#000000"
+headercolor: "#ed1b2f"
 logo: img/logos/McGill_Redmen_Logo.png
 
 # Tertiary Parameters
