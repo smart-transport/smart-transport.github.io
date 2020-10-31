@@ -13,8 +13,15 @@
   img: https://smart-transport.github.io/img/Yuankai-Wu.jpg
   github: Kaimaoge
   gplus: https://scholar.google.com/citations?user=L9b-8ZwAAAAJ&hl=en
-  bio: Yuankai Wu received his Ph.D. degree in vehicle operation engineering from Beijing Institute of Technology, Beijing, China, in Jun. 2019. . He was a visiting PhD student with Department of Civil and Environmental Engineering, University of Wisconsin-Madison, from Nov. 2016 to Dec. 2017. During this time, he was doing research on connected & autmated vehicles. His research has focused on various machine learning technologies, e.g., tensor decomposition, graph neural networks, deep reinforcement learning, with the aim to facilitate the applications on intelligent transportation systems.
+  bio: Yuankai Wu received his Ph.D. degree in vehicle operation engineering from Beijing Institute of Technology, Beijing, China, in Jun. 2019. He was a visiting PhD student with Department of Civil and Environmental Engineering, University of Wisconsin-Madison, from Nov. 2016 to Dec. 2017. During this time, he was doing research on connected & autmated vehicles. His research has focused on various machine learning technologies, e.g., tensor decomposition, graph neural networks, deep reinforcement learning, with the aim to facilitate the applications on intelligent transportation systems.
   url: https://kaimaoge.github.io/
+  visible: true
+
+- name: Jiawei Wang
+  role: Ph.D.
+  img: https://smart-transport.github.io/img/Jiawei-Wang.jpg
+  gplus: https://scholar.google.com/citations?user=Y1gU9wYAAAAJ&hl=zh-CN
+  bio: Jiawei Wang comes from Guangdong, China, and is a second-year student in the Ph.D. program of transportation at the Department of Civil Engineering at McGill University. His major is traffic engineering, and he currently focuses on traffic control with machine learning techniques. <br>Before arriving at McGill, he got a B.E. degree and an M.S. degree from the Department of Intelligent Engineering at Sun Yat-sen University, China, where he mainly worked on urban network traffic prediction with deep learning. <br> In his free time, he loves playing basketball and enjoys exploring new places and food.
   visible: true
   
 - name: Chengyuan Zhang
