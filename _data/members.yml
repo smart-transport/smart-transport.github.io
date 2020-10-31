@@ -23,6 +23,13 @@
   gplus: https://scholar.google.com/citations?user=Y1gU9wYAAAAJ&hl=zh-CN
   bio: Jiawei Wang comes from Guangdong, China, and is a second-year student in the Ph.D. program of transportation at the Department of Civil Engineering at McGill University. His major is traffic engineering, and he currently focuses on traffic control with machine learning techniques. <br>Before arriving at McGill, he got a B.E. degree and an M.S. degree from the Department of Intelligent Engineering at Sun Yat-sen University, China, where he mainly worked on urban network traffic prediction with deep learning. <br> In his free time, he loves playing basketball and enjoys exploring new places and food.
   visible: true
+
+- name: Zhanhong Cheng
+  role: Ph.D.
+  img: https://smart-transport.github.io/img/Zhanhong-Cheng.jpg
+  gplus: https://scholar.google.ca/citations?user=YhrxIBAAAAAJ&hl=en
+  bio: Zhanhong Cheng is a Ph.D. candidate in the Department of Civil Engineering at McGill University. He received his master’s and bachelor’s degree from Harbin Institute of Technology. His current research focuses on utilizing passengers’ behavior patterns for better transit operation, planning, and forecasting.  His master’s thesis is about the effect of the route choice model on traffic paradox.  His research interest includes machine learning, data-driven transportation modeling, and sustainable transportation.
+  visible: true
   
 - name: Chengyuan Zhang
   role: M.Eng.
