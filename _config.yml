@@ -8,7 +8,7 @@ url: "https://smart-transport.github.io"
 
 # Secondary Parameters
 baseurl: "/"
-header-img: img/mcgill_univ.jpg
+header-img: img/mcgill_univ_winter.gif
 headercolor: "#ed1b2f"
 logo: img/logos/McGill_Redmen_Logo.png
 
@@ -36,7 +36,7 @@ defaults:
       type: "pages"
     values:
       layout: "project"
-      header-img: "img/mcgill_univ.jpg"
+      header-img: "img/mcgill_univ_winter.gif"
 
 # Prose Settings
 prose:
