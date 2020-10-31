@@ -10,12 +10,12 @@ url: "https://smart-transport.github.io"
 baseurl: "/"
 header-img: img/home-bg.jpg
 headercolor: "#FFFFFF"
-logo: /img/logos/Project-Pages-New-Logo-Inverted.png
+logo: img/logos/Project-Pages-New-Logo-Inverted.png
 
 # Tertiary Parameters
 github_username:  smart-transport
 project_repository: smart-transport.github.io
-disqus_shortname: project-pages
+disqus_shortname: smart_transport
 g-analytics: UA-75881392-1
 altmetric: true
 
