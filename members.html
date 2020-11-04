@@ -8,9 +8,9 @@ header-img: "img/mcgill_univ_winter.gif"
 
 {% for member in site.data.members %} {% if member.visible == true %}
 
-	<a href="{{site.indmember}}/_indmember/{{ member.individual_idx }}.html"><img src="{{ member.img }}" style="margin-top:0px; margin-bottom:5px; margin-right:10px; float:left; width:150px !important"></a>
+	<a href="{{site.indmember-url}}{{ member.individual_idx }}.html"><img src="{{ member.img }}" style="margin-top:0px; margin-bottom:5px; margin-right:10px; float:left; width:150px !important"></a>
 	
-	<a href="{{site.indmember}}/_indmember/{{ member.individual_idx }}.html"><h2>{{ member.name }}</h2></a>
+	<a href="{{site.indmember-url}}{{ member.individual_idx }}.html"><h2>{{ member.name }}</h2></a>
 	
 	<h3>{{ member.role }}</h3>
 	
