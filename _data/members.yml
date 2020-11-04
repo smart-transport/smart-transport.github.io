@@ -46,3 +46,19 @@ phds:
     bio: Zhanhong Cheng is a Ph.D. candidate in the Department of Civil Engineering at McGill University. He received his master’s and bachelor’s degree from Harbin Institute of Technology. His current research focuses on utilizing passengers’ behavior patterns for better transit operation, planning, and forecasting.  His master’s thesis is about the effect of the route choice model on traffic paradox.  His research interest includes machine learning, data-driven transportation modeling, and sustainable transportation.
     individual_idx: Zhanhong-Cheng
     visible: true
+
+masters:
+  - name: Zhenyuan Ma
+    role: M.Eng.
+    img: https://smart-transport.github.io/img/Zhenyuan-Ma.jpg
+    bio: Zhenyuan Ma joined the smart transport group as a master student in January 2019 and she is going to graduate in January 2021. She got her Bachelor degree in computer science at The Hong Kong Polytechnic University. She is interested in big data analysis, machine learning and algorithms, agent-based simulation and travel demand forecasting, and spatiotemporal analysis. Her master's thesis topic is multi-level population synthesis and missing value imputation on survey and census data.
+    url: https://zhenyuanma.github.io/
+    visible: true
+
+  - name: Chengyuan Zhang
+    role: M.Eng.
+    img: https://smart-transport.github.io/img/Chengyuan-Zhang.jpg
+    gplus: https://scholar.google.com/citations?user=4Zgj2BkAAAAJ&hl=en
+    bio: Chenyuan is the M.Eng. student with research interests in Automated Vehicles and Intelligent Transportation Systems. Specifically, he is willing to contribute his mathematical and physical knowledge to the application of Statistical Learning (especially probabilistic graphical model) in micro/macro driving behavior analysis, traffic scenarios patterns recognition and scene understanding, which would help with making better decisions of intelligent agents and higher efficiency of urban transportation systems.
+    url: https://chengyuanzhang.wixsite.com/home
+    visible: true

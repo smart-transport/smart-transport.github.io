@@ -78,6 +78,31 @@ header-img: "img/mcgill_univ_winter.gif"
 	
 	</br>
 	</br>
+	<hr>
+{% endif %}{% endfor %}
+
+<h1> Master Students </h1>
+{% for member in site.data.members.masters %} {% if member.visible == true %}
+
+	<a href="{{site.baseurl}}/{{ member.individual_idx }}"><img src="{{ member.img }}" style="margin-top:0px; margin-bottom:5px; margin-right:10px; float:left; width:150px !important"></a>
+	
+	<a href="{{site.baseurl}}/{{ member.individual_idx }}"><h2>{{ member.name }}</h2></a>
+	
+	<h3>{{ member.role }}</h3>
+	
+	{% if member.github %} 
+	<span class="social-share-googleplus"><a href="https://github.com/{{ member.github }}" title="Github"><img src="{{ "/img/icons/github-icon.png" | prepend: site.baseurl }}" style="height:20px">Github</a></span> 
+	{% endif %}
+	{% if member.gplus %}
+	<span class="social-share-googleplus"><a href="{{ member.gplus }}" title="Google Plus"><img src="{{ "/img/icons/gplus-icon.png" | prepend: site.baseurl }}" style="height:20px">Google Scholar</a></span>
+	{% endif %}
+	{% if member.url %}
+	<span class="social-share-googleplus"><a href="{{ member.url }}" title="Google Plus"><img src="{{ "/img/icons/url-icon.png"| prepend: site.baseurl }}" style="height:20px">Website</a></span>
+	{% endif %}
+	
+	</br>
 	</br>
 	<hr>
 {% endif %}{% endfor %}
+
+<h1> Alumni </h1>
