@@ -6,35 +6,51 @@
   gplus: https://scholar.google.com/citations?user=qi4IEtkAAAAJ
   bio: Lijun Sun is currently an Assistant Professor in the Department of Civil Engineering at McGill University. He received his PhD degree in Civil Engineering (Transportation) from National University of Singapore, and earned a Bachelor degree in Civil Engineering from Tsinghua University. During his PhD, he worked at Mobility and Transport Planning module at the Future Cities Laboratory, Singapore-ETH center. Prior to joining McGill, he was a Postdoctoral Associate at MIT Media Lab. 
   url: https://lijunsun.github.io/
+  individual_idx: Lijun-Sun
   visible: true
    
-- name: Yuankai Wu
-  role: Ph.D. / Postdoc
-  img: https://smart-transport.github.io/img/Yuankai-Wu.jpg
-  github: Kaimaoge
-  gplus: https://scholar.google.com/citations?user=L9b-8ZwAAAAJ&hl=en
-  bio: Yuankai Wu received his Ph.D. degree in vehicle operation engineering from Beijing Institute of Technology, Beijing, China, in Jun. 2019. He was a visiting PhD student with Department of Civil and Environmental Engineering, University of Wisconsin-Madison, from Nov. 2016 to Dec. 2017. During this time, he was doing research on connected & autmated vehicles. His research has focused on various machine learning technologies, e.g., tensor decomposition, graph neural networks, deep reinforcement learning, with the aim to facilitate the applications on intelligent transportation systems.
-  url: https://kaimaoge.github.io/
-  visible: true
+# - name: Yuankai Wu
+#   role: Ph.D. / Postdoc
+#   img: https://smart-transport.github.io/img/Yuankai-Wu.jpg
+#   github: Kaimaoge
+#   gplus: https://scholar.google.com/citations?user=L9b-8ZwAAAAJ&hl=en
+#   bio: Yuankai Wu received his Ph.D. degree in vehicle operation engineering from Beijing Institute of Technology, Beijing, China, in Jun. 2019. He was a visiting PhD student with Department of Civil and Environmental Engineering, University of Wisconsin-Madison, from Nov. 2016 to Dec. 2017. During this time, he was doing research on connected & automated vehicles. His research has focused on various machine learning technologies, e.g., tensor decomposition, graph neural networks, deep reinforcement learning, with the aim to facilitate the applications on intelligent transportation systems.
+#   url: https://kaimaoge.github.io/
+#   visible: true
 
-- name: Jiawei Wang
-  role: Ph.D.
-  img: https://smart-transport.github.io/img/Jiawei-Wang.jpg
-  gplus: https://scholar.google.com/citations?user=Y1gU9wYAAAAJ&hl=zh-CN
-  bio: Jiawei Wang comes from Guangdong, China, and is a second-year student in the Ph.D. program of transportation at the Department of Civil Engineering at McGill University. His major is traffic engineering, and he currently focuses on traffic control with machine learning techniques. <br>Before arriving at McGill, he got a B.E. degree and an M.S. degree from the Department of Intelligent Engineering at Sun Yat-sen University, China, where he mainly worked on urban network traffic prediction with deep learning. <br> In his free time, he loves playing basketball and enjoys exploring new places and food.
-  visible: true
+# - name: Xudong Wang
+#   role: Ph.D.
+#   img: https://smart-transport.github.io/img/Xudong-Wang.jpg
+#   gplus: https://scholar.google.com/citations?user=UNLmdv4AAAAJ&hl=en
+#   bio: Xudong Wang received the B.S. degree in automation from Sichuan University, Sichuan, China, in 2014 and the M.S. degree in automation from Beihang University, Beijing, China, in 2017. She is currently working toward the Ph.D. degree in the Department of Civil Engineering and Applied Mechanics at McGill University, Montreal, QC, Canada. Her research interests include spatio-temporal traffic data mining and anomaly detection.
+#   url: https://martina1024.github.io/
+#   visible: true
 
-- name: Zhanhong Cheng
-  role: Ph.D.
-  img: https://smart-transport.github.io/img/Zhanhong-Cheng.jpg
-  gplus: https://scholar.google.ca/citations?user=YhrxIBAAAAAJ&hl=en
-  bio: Zhanhong Cheng is a Ph.D. candidate in the Department of Civil Engineering at McGill University. He received his master’s and bachelor’s degree from Harbin Institute of Technology. His current research focuses on utilizing passengers’ behavior patterns for better transit operation, planning, and forecasting.  His master’s thesis is about the effect of the route choice model on traffic paradox.  His research interest includes machine learning, data-driven transportation modeling, and sustainable transportation.
-  visible: true
-  
-- name: Chengyuan Zhang
-  role: M.Eng.
-  img: https://smart-transport.github.io/img/Chengyuan-Zhang.jpg
-  gplus: https://scholar.google.com/citations?user=4Zgj2BkAAAAJ&hl=en
-  bio: Chenyuan is the M.Eng. student with research interests in Automated Vehicles and Intelligent Transportation Systems. Specifically, he is willing to contribute his mathematical and physical knowledge to the application of Statistical Learning (especially probabilistic graphical model) in micro/macro driving behavior analysis, traffic scenarios patterns recognition and scene understanding, which would help with making better decisions of intelligent agents and higher efficiency of urban transportation systems.
-  url: https://chengyuanzhang.wixsite.com/home
-  visible: true
+# - name: Jiawei Wang
+#   role: Ph.D.
+#   img: https://smart-transport.github.io/img/Jiawei-Wang.jpg
+#   gplus: https://scholar.google.com/citations?user=Y1gU9wYAAAAJ&hl=zh-CN
+#   bio: Jiawei Wang comes from Guangdong, China, and is a second-year student in the Ph.D. program of transportation at the Department of Civil Engineering at McGill University. His major is traffic engineering, and he currently focuses on traffic control with machine learning techniques. <br>Before arriving at McGill, he got a B.E. degree and an M.S. degree from the Department of Intelligent Engineering at Sun Yat-sen University, China, where he mainly worked on urban network traffic prediction with deep learning. <br> In his free time, he loves playing basketball and enjoys exploring new places and food.
+#   visible: true
+
+# - name: Zhanhong Cheng
+#   role: Ph.D.
+#   img: https://smart-transport.github.io/img/Zhanhong-Cheng.jpg
+#   gplus: https://scholar.google.ca/citations?user=YhrxIBAAAAAJ&hl=en
+#   bio: Zhanhong Cheng is a Ph.D. candidate in the Department of Civil Engineering at McGill University. He received his master’s and bachelor’s degree from Harbin Institute of Technology. His current research focuses on utilizing passengers’ behavior patterns for better transit operation, planning, and forecasting.  His master’s thesis is about the effect of the route choice model on traffic paradox.  His research interest includes machine learning, data-driven transportation modeling, and sustainable transportation.
+#   visible: true
+
+# - name: Zhenyuan Ma
+#   role: M.Eng.
+#   img: https://smart-transport.github.io/img/Zhenyuan-Ma.jpg
+#   bio: Zhenyuan Ma joined the smart transport group as a master student in January 2019 and she is going to graduate in January 2021. She got her Bachelor degree in computer science at The Hong Kong Polytechnic University. She is interested in big data analysis, machine learning and algorithms, agent-based simulation and travel demand forecasting, and spatiotemporal analysis. Her master's thesis topic is multi-level population synthesis and missing value imputation on survey and census data.
+#   url: https://zhenyuanma.github.io/
+#   visible: true
+
+# - name: Chengyuan Zhang
+#   role: M.Eng.
+#   img: https://smart-transport.github.io/img/Chengyuan-Zhang.jpg
+#   gplus: https://scholar.google.com/citations?user=4Zgj2BkAAAAJ&hl=en
+#   bio: Chenyuan is the M.Eng. student with research interests in Automated Vehicles and Intelligent Transportation Systems. Specifically, he is willing to contribute his mathematical and physical knowledge to the application of Statistical Learning (especially probabilistic graphical model) in micro/macro driving behavior analysis, traffic scenarios patterns recognition and scene understanding, which would help with making better decisions of intelligent agents and higher efficiency of urban transportation systems.
+#   url: https://chengyuanzhang.wixsite.com/home
+#   visible: true
