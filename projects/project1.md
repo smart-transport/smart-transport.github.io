@@ -1,7 +1,10 @@
 ---
 title: Welcome
-layout: default
+layout: project
 menu-order: 10
+description: "Description of Project #1"
+header-img: "img/home-bg.jpg"
+category: project1
 ---
 #Welcome to the Conference
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi ut nulla eu massa 
