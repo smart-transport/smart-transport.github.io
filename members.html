@@ -32,8 +32,8 @@ header-img: "img/mcgill_univ_winter.gif"
 
 {% endif %}{% endfor %}
 
-<!-- <h1> Postdoc Fellows </h1>
-{% for member in site.data.postdoc %} {% if member.visible == true %}
+<h1> Postdoc Fellows </h1>
+{% for member in site.data.members.postdocs %} {% if member.visible == true %}
 
 	<a href="{{site.baseurl}}/{{ member.individual_idx }}"><img src="{{ member.img }}" style="margin-top:0px; margin-bottom:5px; margin-right:10px; float:left; width:150px !important"></a>
 	
@@ -54,4 +54,4 @@ header-img: "img/mcgill_univ_winter.gif"
 	</br>
 	</br>
 	<hr>
-{% endif %}{% endfor %} -->
+{% endif %}{% endfor %}
