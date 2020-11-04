@@ -11,6 +11,7 @@ baseurl: "/"
 header-img: img/mcgill_univ_winter.gif
 headercolor: "#ed1b2f"
 logo: img/logos/McGill_Redmen_Logo.png
+indmember-url: "/_indmember/"
 
 # Tertiary Parameters
 github_username:  smart-transport
