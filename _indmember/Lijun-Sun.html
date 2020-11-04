@@ -1,32 +1,14 @@
 ---
 layout: page
+title: "Community Impact"
+description: "Requires some build up time and commitment..."
+header-img: "../img/home-bg.jpg"
 ---
 
-{% for member in site.data.members %} {% if member.visible == true %}
+With <b><a href="https://www.altmetric.com/">Altmetric</a></b>, track the impact of your Project Page on the community through mentions tracked in a rich variety of sources. Currently requires registration with Project-Pages admins to set up.
 
-	<img src="{{ member.img }}" style="margin-top:0px; margin-bottom:5px; margin-right:10px; float:left; width:150px !important">
-	
-	<h1>{{ member.name }}</h1>
-	
-	<h2>{{ member.role }}</h2>
-	
-	{% if member.github %} 
-	<span class="social-share-googleplus"><a href="https://github.com/{{ member.github }}" title="Github"><img src="{{ "/img/icons/github-icon.png" | prepend: site.baseurl }}" style="height:20px">Github</a></span> 
-	{% endif %}
-	{% if member.gplus %}
-	<span class="social-share-googleplus"><a href="{{ member.gplus }}" title="Google Plus"><img src="{{ "/img/icons/gplus-icon.png" | prepend: site.baseurl }}" style="height:20px">Google Scholar</a></span>
-	{% endif %}
-	{% if member.url %}
-	<span class="social-share-googleplus"><a href="{{ member.url }}" title="Google Plus"><img src="{{ "/img/icons/url-icon.png"| prepend: site.baseurl }}" style="height:20px">Website</a></span>
-	{% endif %}
-	
-	</br>
-	</br>
-	{% if member.bio %} 
-	{{ member.bio }}
-	{% endif %}
-	
-	<hr>
+<br>
 
-{% endif %}{% endfor %}
+<p>Below is a sample image and not reflective of the statistics of this project.</p>
 
+<a href="https://www.altmetric.com/"><img src= "{{ "/img/altmetricsamplebadge.PNG " | prepend: site.baseurl }}" style="width: 60%; margin-left: 20%; margin-right: 20%;"></a>
