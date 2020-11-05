@@ -65,9 +65,9 @@ phds:
 
   - name: Fuqiang Liu
     role: 2019-Present
-    img: https://smart-transport.github.io/img/Fuqiang-Liu.jpg
+    img: https://smart-transport.github.io/img/Fuqiang-Liu.JPG
     bio: Fuqiang received his bachelor’s and master’s degree in Electrical and Electronic Engineering from Beijing Institute of Technology, Beijing, China, in 2014 and 2016 respectively. Then he worked as a research assistant in deep learning acceleration at Clarkson University. From Sep 2019, he works as a Ph.D. candidate supervised by Prof. Lijun Sun and Prof. Luis Miranda-Moreno, and his research focuses on robust intelligent transportation systems (ITS) and internet-of-thing (IoT) systems from spatiotemporal graph neural networks, adversarial study, and reinforcement learning.
-    individual_idx: Fuqiang Liu
+    individual_idx: Fuqiang-Liu
     visible: true
 
   - name: Xiaoxu Chen
