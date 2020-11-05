@@ -63,6 +63,14 @@ phds:
     individual_idx: Jingbo-Tian
     visible: true
 
+  - name: Xiaoxu Chen
+    role: 2020-Present
+    img: https://smart-transport.github.io/img/Xiaoxu-Chen.jpg
+    gplus: https://scholar.google.com/citations?hl=zh-CN&user=PveVQZsAAAAJ
+    bio: Xiaoxu Chen is a Ph.D. candidate in the Department of Civil Engineering at McGill University. His current research focuses on machine learning for urban computing and pubulic transit operation. He received his M.S. degree from Tongji University and B.S. degree from Harbin Institute of Technology.
+    individual_idx: Xiaoxu-Chen
+    visible: true
+
 
 masters:
   - name: Zhenyuan Ma
