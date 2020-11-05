@@ -70,6 +70,7 @@ masters:
     img: https://smart-transport.github.io/img/Zhenyuan-Ma.jpg
     bio: Zhenyuan Ma joined the smart transport group as a master student in January 2019 and she is going to graduate in January 2021. She got her Bachelor degree in computer science at The Hong Kong Polytechnic University. She is interested in big data analysis, machine learning and algorithms, agent-based simulation and travel demand forecasting, and spatiotemporal analysis. Her master's thesis topic is multi-level population synthesis and missing value imputation on survey and census data.
     url: https://zhenyuanma.github.io/
+    individual_idx: Zhenyuan-Ma
     visible: true
 
   - name: Lulu-Tan
@@ -77,6 +78,7 @@ masters:
     img: https://smart-transport.github.io/img/Lulu-Tan.jpg
     bio: 
     url: https://lulutan99.github.io/
+    individual_idx: Lulu-Tan
     visible: true
 
   - name: Dingyi Zhuang
@@ -86,6 +88,7 @@ masters:
     gplus: https://scholar.google.com/citations?user=8fYfUB0AAAAJ&hl=en
     bio: 
     url: https://zhuangdingyi.github.io/
+    individual_idx: Dingyi-Zhuang
     visible: true
   
   - name: Tianyu Shi
@@ -94,6 +97,7 @@ masters:
     gplus: https://scholar.google.ca/citations?user=DC0t9zwAAAAJ&hl=en
     bio: Tianyu received his bachelor degree in vehicle engineering from Beijing Institute of Technology. During his undergraduate study, he was a visiting student researcher at Berkeley Deep Drive, University of California Berkeley. Prior to joining McGill, he worked as research intern in L4 automated driving group at Momenta.ai. He also worked as research intern in based model group at Megvii Technology.
     url: https://shitianyu-hue.github.io/
+    individual_idx: Tianyu-Shi
     visible: true
 
   - name: Chengyuan Zhang
@@ -102,4 +106,5 @@ masters:
     gplus: https://scholar.google.com/citations?user=4Zgj2BkAAAAJ&hl=en
     bio: Chenyuan is the M.Eng. student with research interests in Automated Vehicles and Intelligent Transportation Systems. Specifically, he is willing to contribute his mathematical and physical knowledge to the application of Statistical Learning (especially probabilistic graphical model) in micro/macro driving behavior analysis, traffic scenarios patterns recognition and scene understanding, which would help with making better decisions of intelligent agents and higher efficiency of urban transportation systems.
     url: https://chengyuanzhang.wixsite.com/home
+    individual_idx: Chengyuan-Zhang
     visible: true
