@@ -21,6 +21,15 @@ postdocs:
     individual_idx: Yuankai-Wu
     visible: true
 
+  - name: Wenshuo Wang
+    role: 2020-Present
+    img: https://smart-transport.github.io/img/Wenshuo-Wang.jpg
+    gplus: https://scholar.google.com.hk/citations?user=vQ1dKQwAAAAJ&hl=en
+    bio: 
+    url: http://wenshuow.com/
+    individual_idx: Wenshuo-Wang
+    visible: true
+
 phds:
   - name: Xudong Wang
     role: 2018-Present
@@ -94,6 +103,13 @@ masters:
     bio: 
     url: https://lulutan99.github.io/
     individual_idx: Lulu-Tan
+    visible: true
+
+  - name: Mojdeh Sharafi
+    role: 2019-Present
+    img: https://smart-transport.github.io/img/Mojdeh-Sharafi.jpg
+    bio: 
+    individual_idx: Mojdeh-Sharafi
     visible: true
 
   - name: Dingyi Zhuang
