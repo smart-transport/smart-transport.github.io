@@ -1,6 +1,6 @@
 ---
 layout:     	slide
-title:     		New Presentation
+title:     		New Presentation Template
 author:     	Ahmet Cecen
 tags:           presentation template
 subtitle:    	Some Short Description of Presentation
