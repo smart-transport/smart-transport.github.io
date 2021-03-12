@@ -17,4 +17,4 @@ Bus bunching has been a long-standing problem that undermines the efficiency and
 You can find the full paper [here](https://www.sciencedirect.com/science/article/pii/S0968090X20305763).
 
 ## Video
-[![Watch the video](https://smart-transport.github.io/img/projects/bus_holding01.png)](htt
+[![Watch the video](https://smart-transport.github.io/img/projects/bus_holding01.png)](https://youtu.be/TuScMyhkL9g)
