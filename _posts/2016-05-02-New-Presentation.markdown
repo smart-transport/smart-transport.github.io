@@ -2,7 +2,7 @@
 layout:     	slide
 title:     		New Presentation Template
 author:     	Ahmet Cecen
-tags:           presentation template
+tags:           
 subtitle:    	Some Short Description of Presentation
 category:  research
 theme:		night # default/beige/blood/moon/night/serif/simple/sky/solarized

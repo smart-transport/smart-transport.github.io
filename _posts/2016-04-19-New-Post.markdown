@@ -2,7 +2,7 @@
 layout:     post
 title:      New Post
 author:     Ahmet Cecen
-tags: 		post template
+tags: 		
 subtitle:  	Some Short Description of Post
 category:  project1
 ---
