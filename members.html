@@ -35,7 +35,7 @@ header-img: "img/mcgill_univ_winter.gif"
 <h1> Postdoc Fellows </h1>
 {% for member in site.data.members.postdocs %} {% if member.visible == true %}
 
-	<a href="{{site.baseurl}}/memberweb/{{ member.individual_idx }}"><img src="{{ member.img }}" style="margin-top:0px; margin-bottom:5px; margin-right:10px; float:left; width:150px !important"></a>
+	<a href="{{site.baseurl}}/memberweb/{{ member.individual_idx }}"><img src="{{ member.img }}" style="margin-top:0px; margin-bottom:auto; margin-right:10px; float:left; width:150px !important"></a>
 	
 	<a href="{{site.baseurl}}/memberweb/{{ member.individual_idx }}"><h2>{{ member.name }}</h2></a>
 	
@@ -60,7 +60,7 @@ header-img: "img/mcgill_univ_winter.gif"
 <h1> Ph.D. Students </h1>
 {% for member in site.data.members.phds %} {% if member.visible == true %}
 
-	<a href="{{site.baseurl}}/memberweb/{{ member.individual_idx }}"><img src="{{ member.img }}" style="margin-top:0px; margin-bottom:5px; margin-right:10px; float:left; width:150px !important"></a>
+	<a href="{{site.baseurl}}/memberweb/{{ member.individual_idx }}"><img src="{{ member.img }}" style="margin-top:0px; margin-bottom:auto; margin-right:10px; float:left; width:150px !important"></a>
 	
 	<a href="{{site.baseurl}}/memberweb/{{ member.individual_idx }}"><h2>{{ member.name }}</h2></a>
 	
@@ -86,7 +86,7 @@ header-img: "img/mcgill_univ_winter.gif"
 <h1> Master Students </h1>
 {% for member in site.data.members.masters %} {% if member.visible == true %}
 
-	<a href="{{site.baseurl}}/memberweb/{{ member.individual_idx }}"><img src="{{ member.img }}" style="margin-top:0px; margin-bottom:5px; margin-right:10px; float:left; width:150px !important"></a>
+	<a href="{{site.baseurl}}/memberweb/{{ member.individual_idx }}"><img src="{{ member.img }}" style="margin-top:0px; margin-bottom:auto; margin-right:10px; float:left; width:150px; background-size: contain !important"></a>
 	
 	<a href="{{site.baseurl}}/memberweb/{{ member.individual_idx }}"><h2>{{ member.name }}</h2></a>
 	
@@ -108,3 +108,25 @@ header-img: "img/mcgill_univ_winter.gif"
 {% endif %}{% endfor %}
 <hr>
 <h1> Alumni </h1>
+{% for member in site.data.members.alumnis %} {% if member.visible == true %}
+
+	<a href="{{site.baseurl}}/memberweb/{{ member.individual_idx }}"><img src="{{ member.img }}" style="margin-top:0px; margin-bottom:auto; margin-right:10px; float:left; width:150px !important"></a>
+	
+	<a href="{{site.baseurl}}/memberweb/{{ member.individual_idx }}"><h2>{{ member.name }}</h2></a>
+	
+	<h3>{{ member.role }}</h3>
+	
+	{% if member.github %} 
+	<span class="social-share-googleplus"><a href="https://github.com/{{ member.github }}" title="Github"><img src="{{ "/img/icons/github-icon.png" | prepend: site.baseurl }}" style="height:20px">Github</a></span> 
+	{% endif %}
+	{% if member.gplus %}
+	<span class="social-share-googleplus"><a href="{{ member.gplus }}" title="Google Plus"><img src="{{ "/img/icons/gplus-icon.png" | prepend: site.baseurl }}" style="height:20px">Google Scholar</a></span>
+	{% endif %}
+	{% if member.url %}
+	<span class="social-share-googleplus"><a href="{{ member.url }}" title="Google Plus"><img src="{{ "/img/icons/url-icon.png"| prepend: site.baseurl }}" style="height:20px">Website</a></span>
+	{% endif %}
+	
+	</br>
+	</br>
+	</br>
+{% endif %}{% endfor %}

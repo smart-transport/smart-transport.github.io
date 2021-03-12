@@ -89,22 +89,6 @@ phds:
 
 
 masters:
-  - name: Zhenyuan Ma
-    role: 2019-Present
-    img: https://smart-transport.github.io/img/Zhenyuan-Ma.jpg
-    bio: Zhenyuan Ma joined the smart transport group as a master student in January 2019 and she is going to graduate in January 2021. She got her Bachelor degree in computer science at The Hong Kong Polytechnic University. She is interested in big data analysis, machine learning and algorithms, agent-based simulation and travel demand forecasting, and spatiotemporal analysis. Her master's thesis topic is multi-level population synthesis and missing value imputation on survey and census data.
-    url: https://zhenyuanma.github.io/
-    individual_idx: Zhenyuan-Ma
-    visible: true
-
-  - name: Lulu-Tan
-    role: 2019-Present
-    img: https://smart-transport.github.io/img/Lulu-Tan.jpg
-    bio: 
-    url: https://lulutan99.github.io/
-    individual_idx: Lulu-Tan
-    visible: true
-
   - name: Mojdeh Sharafi
     role: 2019-Present
     img: https://smart-transport.github.io/img/Mojdeh-Sharafi.jpg
@@ -138,4 +122,21 @@ masters:
     bio: Chenyuan is the M.Eng. student with research interests in Automated Vehicles and Intelligent Transportation Systems. Specifically, he is willing to contribute his mathematical and physical knowledge to the application of Statistical Learning (especially probabilistic graphical model) in micro/macro driving behavior analysis, traffic scenarios patterns recognition and scene understanding, which would help with making better decisions of intelligent agents and higher efficiency of urban transportation systems.
     url: https://chengyuanzhang.wixsite.com/home
     individual_idx: Chengyuan-Zhang
+    visible: true
+
+alumnis:
+  - name: Zhenyuan Ma
+    role: 2019-Present
+    img: https://smart-transport.github.io/img/Zhenyuan-Ma.jpg
+    bio: Zhenyuan Ma joined the smart transport group as a master student in January 2019 and she graduated in January 2021. She got her Bachelor degree in computer science at The Hong Kong Polytechnic University. She is interested in big data analysis, machine learning and algorithms, agent-based simulation and travel demand forecasting, and spatiotemporal analysis. Her master's thesis topic is multi-level population synthesis and missing value imputation on survey and census data.
+    url: https://zhenyuanma.github.io/
+    individual_idx: Zhenyuan-Ma
+    visible: true
+
+  - name: Lulu-Tan
+    role: 2019-Present
+    img: https://smart-transport.github.io/img/Lulu-Tan.jpg
+    bio: 
+    url: https://lulutan99.github.io/
+    individual_idx: Lulu-Tan
     visible: true
