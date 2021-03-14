@@ -45,6 +45,7 @@ phds:
     img: https://smart-transport.github.io/img/Zhanhong-Cheng.jpg
     gplus: https://scholar.google.ca/citations?user=YhrxIBAAAAAJ&hl=en
     bio: Zhanhong Cheng is a Ph.D. candidate in the Department of Civil Engineering at McGill University. He received his master’s and bachelor’s degree from Harbin Institute of Technology. His current research focuses on utilizing passengers’ behavior patterns for better transit operation, planning, and forecasting.  His master’s thesis is about the effect of the route choice model on traffic paradox.  His research interest includes machine learning, data-driven transportation modeling, and sustainable transportation.
+    url: https://chengzhanhong.github.io/
     individual_idx: Zhanhong-Cheng
     visible: true
 
