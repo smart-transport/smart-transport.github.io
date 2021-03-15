@@ -137,7 +137,7 @@ masters:
 
 alumnis:
   - name: Zhenyuan Ma
-    role: 2019-Present
+    role: 2019-2021
     img: https://smart-transport.github.io/img/Zhenyuan-Ma.jpg
     bio: Zhenyuan Ma joined the smart transport group as a master student in January 2019 and she graduated in January 2021. She got her Bachelor degree in computer science at The Hong Kong Polytechnic University. She is interested in big data analysis, machine learning and algorithms, agent-based simulation and travel demand forecasting, and spatiotemporal analysis. Her master's thesis topic is multi-level population synthesis and missing value imputation on survey and census data.
     url: https://zhenyuanma.github.io/
@@ -145,7 +145,7 @@ alumnis:
     visible: true
 
   - name: Lulu-Tan
-    role: 2019-Present
+    role: 2019-2021
     img: https://smart-transport.github.io/img/Lulu-Tan.jpg
     bio: 
     url: https://lulutan99.github.io/
@@ -153,7 +153,7 @@ alumnis:
     visible: true
 
   - name: Leila Hawa
-    role: 2019-Present
+    role: 2019-2021
     img: https://smart-transport.github.io/img/Leila-Hawa.jpg
     bio: 
     url: 
