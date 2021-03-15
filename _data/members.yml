@@ -151,3 +151,12 @@ alumnis:
     url: https://lulutan99.github.io/
     individual_idx: Lulu-Tan
     visible: true
+
+  - name: Leila Hawa
+    role: 2019-Present
+    img: https://smart-transport.github.io/img/Leila-Hawa.jpg
+    bio: 
+    url: 
+    individual_idx: Leila-Hawa
+    visible: true
+
