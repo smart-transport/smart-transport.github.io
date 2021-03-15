@@ -30,6 +30,16 @@ postdocs:
     individual_idx: Wenshuo-Wang
     visible: true
 
+  - name: Zhicheng Liu
+    role: 2021-Present
+    img: https://smart-transport.github.io/img/Zhicheng-Liu.jpg
+    github: jackmiemie
+    gplus: https://scholar.google.com/citations?hl=en&user=s_0OxRcAAAAJ
+    bio: 
+    url: http://zhichengliu.me/
+    individual_idx: Zhicheng-Liu
+    visible: true
+
 phds:
   - name: Xudong Wang
     role: 2018-Present
