@@ -97,6 +97,14 @@ phds:
     bio: Xiaoxu Chen is a Ph.D. candidate in the Department of Civil Engineering at McGill University. His current research focuses on machine learning for urban computing and pubulic transit operation. He received his M.S. degree from Tongji University and B.S. degree from Harbin Institute of Technology.
     individual_idx: Xiaoxu-Chen
     visible: true
+    
+  - name: Zhihao Zheng
+    role: 2021-Present
+    img: https://smart-transport.github.io/img/Zhihao-Zheng.jpg
+    gplus: https://scholar.google.com/citations?user=h2Et54sAAAAJ&hl=en
+    bio: Zhihao received his Bachelor’s and Master’s degrees in Transportation Engineering from Central South University in 2017 and 2020. He joined the Smart Transport Group at McGill University in winter, 2021. He is working Prof. Lijun Sun on the subject of spatiotemporal modeling for urban mobility.
+    individual_idx: Zhihao-Zheng
+    visible: true
 
 
 masters:
