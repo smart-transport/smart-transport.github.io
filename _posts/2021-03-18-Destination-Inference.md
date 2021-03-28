@@ -2,6 +2,7 @@
 title: Probabilistic model for destination inference and travel pattern mining from smart card data
 author: Zhanhong Cheng
 category: research
+subtitle:  	Published in Transportation
 tags: Post Transit
 ---
 

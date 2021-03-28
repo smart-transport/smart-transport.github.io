@@ -3,7 +3,7 @@ layout:     post
 title:      Dynamic holding control to avoid bus bunching, A multi-agent deep reinforcement learning framework
 author:     Jiawei Wang
 tags: 		post RL Transit 
-subtitle:  	
+subtitle:  	Published in Transportation Research Part C
 category:   research
 ---
 
