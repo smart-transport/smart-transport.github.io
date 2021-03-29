@@ -1,0 +1,9 @@
+I" <h2 id="authors">Authors</h2>
+<p>Xudong Wang, Lijun Sun</p>
+
+<h2 id="abstract">Abstract</h2>
+
+<p>Traffic data collected from sensor networks often exhibit strong spatial correlations and recurrent temporal patterns. Learning these patterns and diagnosing anomalies in such spatiotemporal traffic data is critical to improving transportation systems and services. This paper proposes a dynamic framework to model spatiotemporal traffic data, with a particular application on diagnosing anomalies. Within the framework, we focus on characterizing the variation in system dynamics with a time-varying vector autoregressive model. We impose a low-rank tensor structure to model the collection of time-varying system matrices. As the temporal factor matrix captures the principle patterns/signatures across all time-varying system matrices, it is a useful tool to diagnose abnormal generative mechanisms and unexpected temporal patterns. We demonstrate the proposed tensor learning framework’s effectiveness by experimenting with a synthetic data set and real-world spatiotemporal traffic speed data set. The results show the superiority of the proposed model in uncovering anomalous traffic network dynamics.</p>
+
+<p>You can find the full paper <a href="https://ieeexplore.ieee.org/document/9312441">here</a>.</p>
+:ET
