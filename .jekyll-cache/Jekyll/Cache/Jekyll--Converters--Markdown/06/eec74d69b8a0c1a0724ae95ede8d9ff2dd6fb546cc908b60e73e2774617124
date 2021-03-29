@@ -1,0 +1,14 @@
+I"s<h2 id="authors">Authors</h2>
+
+<p>Xudong Wang, Antoine Fagette, Pascal Sartelet, Lijun Sun</p>
+
+<h2 id="collaborator-introduction">Collaborator introduction</h2>
+
+<p><a href="https://www.thalesgroup.com/en">Thales Group</a> is a French multinational company that designs and builds electrical systems and provides services for the aerospace, defence, transportation and security markets. The collaborator was bridged through <a href="https://www.mitacs.ca/en/programs/accelerate">Mitacs Accelerate</a> project.</p>
+
+<h2 id="project-description">Project description</h2>
+
+<p>Besides outliers generated from the data collection stage, anomalies in traffic data can also be valid data characterizing unusual traffic activities. Detecting these anomalies in spatiotemporal traffic activities can provide practical insights for traffic monitoring and operation. In this project, we focus on detecting anomalies in spatiotemporal traffic demand data from Thales. We first apply a probabilistic tensor factorization framework to approximate the expected/predicted probability of each trip, and then quantify the degree of anomalous by using the log ratio of observed frequency over the expected probability.  In this framework, each trip is considered a sample from an underlying multivariate categorical distribution of time of day, origin zone, destination zone, and day of week. We approximate this distribution using a probabilistic Tucker decomposition model and introduce an efficient expectation maximization (EM) algorithm for model inference. To test this framework, we design and implement two synthetic experiments in the traffic simulation software SUMO. The results show that the proposed framework can effectively detect anomalous activities in multivariate spatiotemporal traffic demand data.</p>
+
+<p><img src="https://smart-transport.github.io/img/projects/Anomaly_Xudong/Slide1.png" alt="" /></p>
+:ET
