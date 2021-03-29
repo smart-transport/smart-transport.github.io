@@ -1,0 +1,15 @@
+I"
+<h2 id="authors">Authors:</h2>
+
+<p>Dingyi Zhuang, Lijun Sun, Thibault Barbier</p>
+
+<h2 id="collaborator-introduction">Collaborator introduction</h2>
+
+<p><a href="https://www.expretio.com/">ExPretio</a> offers the artifical intelligence solutions for passenger transport operators. Collaborators are bridged with <a href="https://www.mitacs.ca/en/programs/accelerate">Mitacs Accelerate</a> project by <a href="https://ivado.ca/en/">IVADO</a>.</p>
+
+<h2 id="project-description">Project description</h2>
+
+<p>Demand forecasting models in current practice are typically based on historical data sales in recent years. These so-called long-term models are relatively precise because the context often remains the same over time. In this case, the global and long-term consistency within the data (such as periodicity and seasonality) is sufficient to make a good prediction.  However, unforeseen events can occur and radically change the purchasing/booking behavior of train services in events such as a pandemic, attack, line closing/opening. In this case, the future prediction will be more likely to be dominated by the special event and short-term patterns (e.g., autoregressive dynamics). Therefore, models relying on global patterns along often fail to re-adjust quickly enough to provide a satisfactory forecast.
+The goal of this project is to develop new demand forecasting models for train passenger demand under special events and unseen scenarios. We will focus on developing new models that can efficiently and effectively learn and reproduce the generative mechanism of time series data under special events and unforeseen circumstances. An important component is to characterize both the long-term patterns (e.g., periodicity and seasonality) and short-term dynamics (e.g., due to the pandemic). The short-term component enables the model to adjust and pick up new trends linked to these unforeseen events quickly. They would be based, for example, only on the last fifteen days of sale to provide a more suitable forecast. Then, the model would continue to be combined with the long-term models when everything returns to normal. 
+In this project, the intern will apply and develop models and algorithms to address the challenges in demand forecasting. In particular, we intend to use a low-rank structure to capture the long-term consistency in the data and autoregressive dynamics and time-varying parameters to quickly update the model to account for the short-term trends. The final model will be tested on the booking data of Keolis train services.</p>
+:ET
