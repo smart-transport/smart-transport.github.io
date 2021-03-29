@@ -1,0 +1,10 @@
+I"G<h2 id="authors">Authors</h2>
+<p>Mengying Lei, Aurelie Labbe, Lijun Sun</p>
+
+<h2 id="abstract">Abstract</h2>
+
+<p>Spatiotemporal traffic data imputation is a fundamental challenge for data-driven transportation system analysis. In this paper, we propose a new Bayesian kernelized probabilistic matrix factorization (BKMF) model for spatiotemporal data completion, which can effectively incorporate data dependencies using Gaussian process (GP) kernel constrains. Specifically, we present a fully Bayesian framework for automatically learning model parameters as well as kernel hyperparameters based on Markov chain Monte Carlo (MCMC). By imposing the inferred GP regularizations over all rows/columns of latent components, the underlying spatiotemporal correlations/consistencies can be captured explicitly. Our model is first tested on a synthetic data to show the inference effectiveness for GP hyperparameters. Then, we conduct experiments on a publicly avaliable urban traffic speed data under the random missing scenario with various missing ratios. Our results show that the proposed BKMF model obtains interpretable spatiotemporal patterns and achieves higher imputation accuracy than state-of-the-art comparing methods.</p>
+
+<h2 id="poster">Poster</h2>
+<p><img src="https://smart-transport.github.io/img/projects/BKMF_poster.png" alt="" /></p>
+:ET
