@@ -9,7 +9,7 @@ url: "https://smart-transport.github.io"
 # Secondary Parameters
 baseurl: "/"
 header-img: img/mcgill-university.jpg
-headercolor: "#ffffff"
+headercolor: "#ed1b2f"
 logo: img/logos/McGill_Redmen_Logo.png
 indmember-url: "/_indmember/"
 
