@@ -104,6 +104,7 @@ phds:
     gplus: https://scholar.google.com/citations?user=h2Et54sAAAAJ&hl=en
     bio: Zhihao received his Bachelor’s and Master’s degrees in Transportation Engineering from Central South University in 2017 and 2020. He joined the Smart Transport Group at McGill University in winter, 2021. He is working Prof. Lijun Sun on the subject of spatiotemporal modeling for urban mobility.
     individual_idx: Zhihao-Zheng
+    url: https://vincent-zheng.com/
     visible: true
 
   - name: Sicong Jiang
@@ -112,6 +113,8 @@ phds:
     gplus: https://scholar.google.com/citations?hl=zh-CN&user=DnbKEM4AAAAJ
     bio: 
     individual_idx: Sicong-Jiang
+    url: https://sicongjiang.fun/
+    github: JohnsonJiang1996
     visible: true
 
 masters:
