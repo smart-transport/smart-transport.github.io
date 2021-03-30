@@ -106,6 +106,13 @@ phds:
     individual_idx: Zhihao-Zheng
     visible: true
 
+  - name: Sicong Jiang
+    role: 2021-Present
+    img: https://smart-transport.github.io/img/Sicong-Jiang.jpg
+    gplus: https://scholar.google.com/citations?hl=zh-CN&user=DnbKEM4AAAAJ
+    bio: 
+    individual_idx: Sicong-Jiang
+    visible: true
 
 masters:
   - name: Mojdeh Sharafi
